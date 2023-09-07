@@ -7,4 +7,5 @@ The magnetic levitation system consists of one or more magnets and an object tha
 
 In this repository, we explore various controller designs, including both digital and analog approaches. These controllers aim to regulate the position of the levitated object. More details about how the controllers were designed is shown in the report file.
 
-![image](https://github.com/romidi80/Designing-digital-and-analog-controllers-for-controlling-the-magnetic-levitation-system/assets/89667194/9b19e7b5-9025-4286-9b7d-0f78490f99a8)
+![image](https://github.com/romidi80/Designing-digital-and-analog-controllers-for-controlling-the-magnetic-levitation-system/assets/89667194/4459d516-6f7b-488f-ae8f-6310c98b8c6f)
+
